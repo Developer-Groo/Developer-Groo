@@ -7,6 +7,6 @@
 ## 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Swift-F05138?style=square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-40AEF0?style=square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0066FF?style=square&logo=Swift&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/>   
-<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=GitHub&logoColor=white"/> 
 
 
