@@ -1,4 +1,4 @@
-<a href="https://github.com/DevWooHyeon"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&text=iOS_Developer&fontSize=80&animation=twinkling"/></a>
+<a href="https://github.com/DevWooHyeon"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&section=header&text=iOS_Developer&fontSize=80&animation=twinkling"/></a>
 
 ## ⏳ My Status
 <a href="https://github.com/DevWooHyeon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=DevWooHyeon&show_icons=true&count_private=true&theme=nord"/></a>
