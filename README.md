@@ -5,26 +5,26 @@
 <div align=center><h2>🛠 Languages and Tools</h2></div>
 
 <div align=center> 
-<img src="https://img.shields.io/badge/Swift-F05138?style=square&logo=swift&logoColor=white"/> 
-<img src="https://img.shields.io/badge/UIKit-40AEF0?style=square&logo=Swift&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SwiftUI-0066FF?style=square&logo=Swift&logoColor=white"/>   
+<img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/UIKit-40AEF0?style=plastic&logo=Swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SwiftUI-0066FF?style=plastic&logo=Swift&logoColor=white"/>   
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>  
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/>   
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>   
 <br>
  
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=square&logo=Xcode&logoColor=white"/> 
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=square&logo=visualstudiocode&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=Xcode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/>
 <br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=square&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/>
 <br>
 </div>
 
