@@ -2,13 +2,6 @@
 <a href="https://github.com/Developer-Nova"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Nova's%20GitHub&fontSize=80&animation=twinkling"/></a>
 </div>
 
-<div align=center><h2>⏳ My Status</h2></div>
-
-<div align=center> 
-<a href="https://github.com/Developer-Nova"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Developer-Nova&show_icons=true&count_private=true&theme=nord"/></a>
-<a href="https://github.com/Developer-Nova"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nova&layout=compact&theme=nord"/></a>
-</div>
-
 <div align=center><h2>🛠 Languages and Tools</h2></div>
 
 <div align=center> 
@@ -33,4 +26,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=square&logo=Postman&logoColor=white"/>
 <br>
+</div>
+
+<div align=center><h2>⏳ My Status</h2></div>
+
+<div align=center> 
+<a href="https://github.com/Developer-Nova"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Developer-Nova&show_icons=true&count_private=true&theme=nord"/></a>
+<a href="https://github.com/Developer-Nova"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nova&layout=compact&theme=nord"/></a>
 </div>
