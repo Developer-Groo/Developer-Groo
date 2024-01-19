@@ -1,6 +1,10 @@
+
 <div align=center>
 <a href="https://github.com/Developer-Nova"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Nova's%20GitHub&fontSize=80&animation=twinkling"/></a>
 </div>
+
+<br>
+<br>
 
 <div align=center><h2>🛠 Languages and Tools</h2></div>
 
@@ -26,6 +30,12 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/>
 <br>
+</div>
+
+<br>
+<br>
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeveloper-Nova&count_bg=%23ACAE6D&title_bg=%2328292F&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a>
 </div>
 
 <div align=center><h2>⏳ My Status</h2></div>
