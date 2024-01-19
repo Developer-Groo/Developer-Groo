@@ -1,9 +1,7 @@
-
 <div align=center>
 <a href="https://github.com/Developer-Nova"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Nova's%20GitHub&fontSize=80&animation=twinkling"/></a>
 </div>
 
-<br>
 <br>
 
 <div align=center><h2>🛠 Languages and Tools</h2></div>
