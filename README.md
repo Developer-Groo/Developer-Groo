@@ -39,6 +39,6 @@
 <div align=center><h2>⏳ My Status</h2></div>
 
 <div align=center> 
-<a href="https://github.com/Developer-Nova"><img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=developer-Nova&show_icons=true&count_private=true&theme=tokyonight"/></a>
-<a href="https://github.com/Developer-Nova"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-Nova&layout=compact&theme=tokyonight"/></a>
+<a href="https://github.com/Developer-Nova"><img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Developer-Nova&show_icons=true&count_private=true&theme=tokyonight"/></a>
+<a href="https://github.com/Developer-Nova"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nova&layout=compact&theme=tokyonight"/></a>
 </div>
