@@ -54,6 +54,6 @@
 <div align=center><h2>⏳ My Status</h2></div>
 
 <div align=center> 
-<img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=Developer-Nova&show_icons=true&count_private=true&theme=tokyonight"/>
-<img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nova&layout=compact&theme=tokyonight"/>
+<img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Developer-Nova&show_icons=true&count_private=true&theme=tokyonight"/>
+<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nova&layout=compact&theme=tokyonight"/>
 </div>
