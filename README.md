@@ -1,6 +1,6 @@
 <!--Header View-->
 <div align=center>
-<a href="https://github.com/Developer-Nova"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Nova's%20GitHub&fontSize=80&animation=twinkling"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Nova's%20GitHub&fontSize=80&animation=twinkling"/></a>
 </div>
 
 <br>
