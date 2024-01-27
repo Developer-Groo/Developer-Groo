@@ -16,16 +16,20 @@
 <!-- Repositories -->
 <div align=center><h2>🗃️ Repositories</h2></div>
 
-<div align=left>
-<h3>Study</h3>
-<a href="https://github.com/Developer-Nova/TIL_iOS"><img src="https://img.shields.io/badge/TIL_iOS-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
- <br>
+<div align=center><h3>Study</h3></div>
 <a href="https://github.com/Developer-Nova/Swift-Documentation"><img src="https://img.shields.io/badge/Swift_Documentation-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
- <br>
-<h3>Project</h3>
+<a href="https://github.com/Developer-Nova/iOS-Library-Collection"><img src="https://img.shields.io/badge/iOS_Library_Collection-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<br>
+
+<a href="https://github.com/Developer-Nova/TIL_iOS"><img src="https://img.shields.io/badge/TIL_iOS-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Developer-Nova/TIL_Python"><img src="https://img.shields.io/badge/TIL_python-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<br>
+ 
+<div align=center><h3>Project</h3></div>
 <a href="https://github.com/Developer-Nova/WaterTracker_Release"><img src="https://img.shields.io/badge/Water_Tracker-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </div>
 
+<br>
 
 <!--Languages and Tools-->
 <div>
