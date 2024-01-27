@@ -46,7 +46,8 @@
 <h3>Study</h3>
 <a href="https://github.com/Developer-Nova/TIL_iOS"><img src="https://img.shields.io/badge/TIL_iOS-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
  <br>
-<a href="[https://github.com/Developer-Nova/TIL_iOS](https://github.com/Developer-Nova/Swift-Documentation)"><img src="https://img.shields.io/badge/Swift_Documentation-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Developer-Nova/Swift-Documentation"><img src="https://img.shields.io/badge/Swift_Documentation-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+ <br>
 <h3>Project</h3>
 <a href="https://github.com/Developer-Nova/WaterTracker_Release"><img src="https://img.shields.io/badge/Water_Tracker-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </div>
