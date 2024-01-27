@@ -57,5 +57,5 @@
 <br>
 <br>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeveloper-Nova&count_bg=%23ACAE6D&title_bg=%2328292F&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeveloper-Nova&count_bg=%23ACAE6D&title_bg=%2328292F&icon=apple.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
 </div>
