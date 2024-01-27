@@ -48,6 +48,9 @@
 
 <div align=right> 
 <a href="https://github.com/Developer-Nova"><img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=Developer-Nova&show_icons=true&count_private=true&theme=tokyonight"/></a>
+ 
  <br>
+ <br>
+ 
 <a href="https://github.com/Developer-Nova"><img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nova&layout=compact&theme=tokyonight"/></a>
 </div>
