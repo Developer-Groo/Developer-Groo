@@ -50,7 +50,7 @@
 <br>
  
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=Xcode&logoColor=white"/> 
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=plastic&logo=Visualstudiocode&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/>
 <br>
 
