@@ -46,10 +46,14 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>  
 <br>
 
+
+<br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>   
 <br>
  
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=Xcode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/>
 <br>
 
