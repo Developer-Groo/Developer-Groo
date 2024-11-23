@@ -1,6 +1,6 @@
 <!--Header View-->
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Nova's%20GitHub&fontSize=80&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Groo's%20GitHub&fontSize=80&animation=twinkling"/>
 </div>
 
 <!-- My Status -->
