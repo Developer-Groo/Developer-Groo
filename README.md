@@ -18,7 +18,6 @@
 
 <div align=center><h3>Study</h3></div>
 <a href="https://github.com/Developer-Groo/Swift-Documentation"><img src="https://img.shields.io/badge/Swift_Documentation-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://github.com/Developer-Groo/iOS-Library-Collection"><img src="https://img.shields.io/badge/iOS_Library_Collection-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <br>
 
 <a href="https://github.com/Developer-Groo/TIL_iOS"><img src="https://img.shields.io/badge/TIL_iOS-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
