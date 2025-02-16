@@ -21,7 +21,6 @@
 <br>
 
 <a href="https://github.com/Developer-Groo/TIL_iOS"><img src="https://img.shields.io/badge/TIL_iOS-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://github.com/Developer-Groo/TIL_Python"><img src="https://img.shields.io/badge/TIL_python-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <br>
  
 <div align=center><h3>Project</h3></div>
