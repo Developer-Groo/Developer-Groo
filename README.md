@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/>
 <br>
-
+    
 ### 🧾 Project
 <a href="https://github.com/Developer-Groo/JomaJomaDelivery"><img src="https://img.shields.io/badge/JomaJomaDelivery-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <br>
@@ -61,8 +61,6 @@
 
 </div>
 </div>
-
-<br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
