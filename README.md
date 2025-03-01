@@ -5,8 +5,9 @@
 
 <div align="center">
 <!--  My Status -->
-<img align="right" width="50%" height="175" src="https://github-readme-stats.vercel.app/api?username=Developer-Groo&show_icons=true&count_private=true&theme=tokyonight"/>
-<img align="right" width="50%" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Groo&layout=compact&theme=tokyonight"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Developer-Groo&show_icons=true&count_private=true&theme=tokyonight"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Groo&layout=compact&theme=tokyonight"/>
+<img align="right" width="50%" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=Groo"/></a>
 
 <div align="left" width="70%">
 
