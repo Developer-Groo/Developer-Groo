@@ -22,8 +22,9 @@
     🐻 야곰 아카데미 커리어 스타터 10기
     💻 내일 배움 캠프 Spring 4기
 
-### 🛜 Activity
-    🔗 It 동아리 지원(예정)
+### 🛜 Credential & Activity
+    🪪 SQLD
+    🔗 It 동아리 지원
     
 ### 🛠 Languages and Tools
 
