@@ -24,6 +24,7 @@
 
 ### 🛜 Credential & Activity
     🪪 SQLD
+    🪪 SAA 준비중..
     🔗 It 동아리 지원
     
 ### 🛠 Languages and Tools
