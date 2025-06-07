@@ -33,29 +33,34 @@
 
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
 ### 🛠 Languages and Tools
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"/> 
-<img src="https://img.shields.io/badge/UIKit-40AEF0?style=plastic&logo=Swift&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SwiftUI-0066FF?style=plastic&logo=Swift&logoColor=white"/>   
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/swift.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img width=48 height=48 src="https://go.dev/images/go-logo-white.svg">
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>  
+<img src="https://img.icons8.com/color/48/swiftui.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img width=48 height=48 src="https://img.icons8.com/nolan/64/apache-kafka.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <br>
 
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=coffeescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>   
-<br>
- 
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=Xcode&logoColor=white"/> 
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/>
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/>
+<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/redis--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/fluency/48/docker.png"/>
+<img src="https://img.icons8.com/color/48/kubernetes.png"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 <br>
