@@ -58,6 +58,7 @@
 
 <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/redis--v2.png"/>
+<img src="https://img.icons8.com/color/48/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/fluency/48/docker.png"/>
 <img src="https://img.icons8.com/color/48/kubernetes.png"/>
