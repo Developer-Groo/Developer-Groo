@@ -29,7 +29,8 @@
 ### ❤️ Connect with me
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/sud0.rm_rf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://think8700.tistory.com/"><img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/tumblr.png" alt="tumblr"/></a>
+<a href = "https://think8700.tistory.com/"><img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/tumblr.png"/></a>
+<a href = ""><img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/website.png"/>
 
 </div>
 
