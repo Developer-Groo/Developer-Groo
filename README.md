@@ -52,6 +52,7 @@
 <img src="https://img.icons8.com/color/48/swiftui.png"/>
 <img src="https://img.icons8.com/color/48/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img width=46 height=46 src="https://www.rabbitmq.com/img/rabbitmq-logo.svg">
 <img width=48 height=48 src="https://img.icons8.com/nolan/64/apache-kafka.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
