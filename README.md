@@ -65,5 +65,5 @@
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/fluency/48/docker.png"/>
 <img src="https://img.icons8.com/color/48/kubernetes.png"/>
-<img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+<img width=48 height=48 src="https://img.icons8.com/nolan/64/amazon-web-services.png"/>
 <br>
