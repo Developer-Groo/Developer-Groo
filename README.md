@@ -45,11 +45,13 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/swift.png"/>
 <img src="https://img.icons8.com/color/48/kotlin.png"/>
+<img src="https://img.icons8.com/color/48/dart.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img width=48 height=48 src="https://go.dev/images/go-logo-white.svg">
 <br>
 
 <img src="https://img.icons8.com/color/48/swiftui.png"/>
+<img src="https://img.icons8.com/color/48/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img width=48 height=48 src="https://img.icons8.com/nolan/64/apache-kafka.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
