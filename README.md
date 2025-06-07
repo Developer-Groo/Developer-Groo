@@ -28,6 +28,7 @@
     🔗 It 동아리 지원
 
 ### ❤️ Connect with me
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/sud0.rm_rf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </div>
