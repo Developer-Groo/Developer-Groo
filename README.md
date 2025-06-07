@@ -37,7 +37,7 @@
 <br>
 <br>
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -45,6 +45,7 @@
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/swift.png"/>
+<img src="https://img.icons8.com/color/48/kotlin.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img width=48 height=48 src="https://go.dev/images/go-logo-white.svg">
 <br>
@@ -54,6 +55,7 @@
 <img width=48 height=48 src="https://img.icons8.com/nolan/64/apache-kafka.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img width=48 height=48 src="https://img.icons8.com/nolan/64/express-js.png"/>
 <br>
 
 <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
