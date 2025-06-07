@@ -26,16 +26,6 @@
     🪪 SQLD
     🪪 SAA 준비중..
     🔗 It 동아리 지원
-    
-### 🧾 Project
-<a href="https://github.com/Developer-Groo/JomaJomaDelivery"><img src="https://img.shields.io/badge/JomaJomaDelivery-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<br>
-<a href="https://github.com/Developer-Groo/Interpark-project"><img src="https://img.shields.io/badge/Interpark_project-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<br>
-<a href="https://github.com/Developer-Groo/Sparta-Store"><img src="https://img.shields.io/badge/Sparta_Store-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-
-### 📑 Document
-<a href="https://github.com/Developer-Groo/Swift-Documentation"><img src="https://img.shields.io/badge/Swift_Documentation-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 </div>
 
