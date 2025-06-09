@@ -43,8 +43,8 @@
 <img src="https://img.icons8.com/color/48/javascript.png"/>
 <img src="https://img.icons8.com/fluency/48/typescript--v2.png"/>
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/swift.png"/>
 <img src="https://img.icons8.com/color/48/kotlin.png"/>
+<img src="https://img.icons8.com/color/48/swift.png"/>
 <img src="https://img.icons8.com/color/48/dart.png"/>
 <img src="https://img.icons8.com/color/48/python.png"/>
 <img width=48 height=48 src="https://go.dev/images/go-logo-white.svg">
