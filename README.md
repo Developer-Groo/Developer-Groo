@@ -37,10 +37,11 @@
 <br>
 
 ## 🛠 Languages and Tools
-
+<!-- Laguages -->
 <img src="https://img.icons8.com/color/48/html-5.png"/>
 <img src="https://img.icons8.com/color/48/css3.png"/>
 <img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/fluency/48/typescript--v2.png"/>
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/swift.png"/>
 <img src="https://img.icons8.com/color/48/kotlin.png"/>
@@ -49,6 +50,7 @@
 <img width=48 height=48 src="https://go.dev/images/go-logo-white.svg">
 <br>
 
+<!-- Framework & Library -->
 <img src="https://img.icons8.com/color/48/swiftui.png"/>
 <img src="https://img.icons8.com/color/48/flutter.png"/>
 <img src="https://img.icons8.com/color/48/spring-logo.png"/>
@@ -59,6 +61,7 @@
 <img width=48 height=48 src="https://img.icons8.com/nolan/64/express-js.png"/>
 <br>
 
+<!-- DB & Devops -->
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/redis--v2.png"/>
 <img src="https://img.icons8.com/color/48/postgreesql.png"/>
