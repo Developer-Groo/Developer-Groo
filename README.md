@@ -24,7 +24,7 @@
 
 ### 🛜 Credential
     🪪 SQLD
-    🪪 SAA 준비중..
+    🪪 AWS SAA
 
 ### ❤️ Connect with me
 <a href = ""><img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png"/></a> <!-- Linkedin -->
